@@ -1,4 +1,4 @@
-MyToken ERC20 Contract
+GOJO ERC20 Contract
 =====================
 
 This is a basic ERC20 token contract implemented in Solidity. It allows the contract owner to mint new tokens, and any user to burn and transfer tokens.
@@ -18,6 +18,6 @@ To deploy this contract, compile and deploy it using Remix or your preferred Eth
 
 Once deployed, you can interact with the contract using Remix or other Ethereum wallets. Make sure to replace `msg.sender` with the actual address of the contract owner when calling the `mint` function.
 
-**License**
+## Author 
+ANKIT SINGH
 
-This contract is licensed under the MIT License.
